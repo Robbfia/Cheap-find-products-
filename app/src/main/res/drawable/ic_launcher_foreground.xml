@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bag Handle -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M44,45 C44,35 64,35 64,45" />
+    <!-- Bag Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,44 L76,44 L72,82 C72,84.2 70.2,86 68,86 L40,86 C37.8,86 36,84.2 36,82 Z" />
+    <!-- Tag Symbol / Cutout on Bag -->
+    <path
+        android:fillColor="#059669"
+        android:pathData="M54,54 L63,63 L57,69 L48,60 L48,54 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,57 A1.5,1.5 0 1,0 51,54 A1.5,1.5 0 1,0 51,57" />
+    <!-- Sparkle / Star for Deals & Affiliate Magic -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M73,34 L75,39 L80,41 L75,43 L73,48 L71,43 L66,41 L71,39 Z" />
+</vector>

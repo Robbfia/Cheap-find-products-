@@ -1,0 +1,6 @@
+{
+  "name": "CheapFinds",
+  "description": "Affiliate marketing platform to discover marketplace deals, generate trackable affiliate links, viral captions, and video scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
